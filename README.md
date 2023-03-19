@@ -15,6 +15,9 @@ Now, run the cmd file and Enjoy!
 ### Required Dependencies
 
 fnbr
+
 axios
+
 fs
+
 console-log-colors
