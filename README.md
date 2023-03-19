@@ -14,10 +14,10 @@ Now, run the cmd file and Enjoy!
 
 ### Required Dependencies
 
-```fnbr```
+`fnbr
 
-```axios```
+axios
 
-``````fs```
+fs
 
-```console-log-colors```
+console-log-colors`
