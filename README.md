@@ -17,4 +17,5 @@ Now, run the cmd file and Enjoy!
 ```fnbr
 axios
 fs
-console-log-colors```
+console-log-colors
+```
